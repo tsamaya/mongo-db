@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bebusinessfocus/mongo-db/issues"
   },
@@ -24,6 +24,6 @@
     "@bebusinessfocus/logger": "^1.0.0"
   },
   "devDependencies": {
-    "mongoose": "^5.9.27"
+    "mongoose": "^5.10.9"
   }
 }
